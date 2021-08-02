@@ -14,6 +14,6 @@ Salvador Dali: This objective of this game is to pin the flying mustache on targ
 [https://atinakarim.github.io/P5.js/Final Project-Expressive Computation-Karim,Atina/Game/]
 
 Game of Life: Inspired by Conway's Game of Life
-https://atinakarim.github.io/P5.js/Game%20of%20Life%20(modified)/
+[https://atinakarim.github.io/P5.js/Game%20of%20Life%20(modified)/]
 
 
